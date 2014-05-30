@@ -5,7 +5,7 @@ AUTHOR:Aiken Van Spyk
                                                                                                       
 DESCRIPTION:                                                                                          
 This program is the first of a 7 nodes network program and makes use                                  
-and practice of course sample client server code.                                                                  
+of course sample client server code.                                                                  
                                                                                                       
  **************************/
 
@@ -24,9 +24,7 @@ and practice of course sample client server code.
  http://developers.sun.com/solaris/articles/named_pipes.html                                          
  */
 
-#define HALF_DUPLEX             "halfduplex" //name of named pipe  
-#define WHOLE_DUPLEX    "wholeduplex"    //new addition
-#define HOLE_DUPLEX    "holeduplex"    //new addition
+#define HALF_DUPLEX             "halfduplex" //name of named pipe                                     
 #define link1           "link1" //name of named pipe                                                  
 #define link2           "link2" //name of named pipe                                                  
        
