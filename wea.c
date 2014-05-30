@@ -24,7 +24,8 @@ of course sample client server code.
  http://developers.sun.com/solaris/articles/named_pipes.html                                          
  */
 
-#define HALF_DUPLEX             "halfduplex" //name of named pipe                                     
+#define HALF_DUPLEX             "halfduplex" //name of named pipe  
+#define DUPLEX                   "duplex" //name
 #define link1           "link1" //name of named pipe                                                  
 #define link2           "link2" //name of named pipe                                                  
        
