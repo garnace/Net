@@ -5,7 +5,7 @@ AUTHOR:Aiken Van Spyk
                                                                                                       
 DESCRIPTION:                                                                                          
 This program is the first of a 7 nodes network program and makes use                                  
-of course sample client server code.                                                                  
+and practice of course sample client server code.                                                                  
                                                                                                       
  **************************/
 
