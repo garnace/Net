@@ -26,6 +26,7 @@ and practice of course sample client server code.
 
 #define HALF_DUPLEX             "halfduplex" //name of named pipe  
 #define WHOLE_DUPLEX    "wholeduplex"    //new addition
+#define HOLE_DUPLEX    "holeduplex"    //new addition
 #define link1           "link1" //name of named pipe                                                  
 #define link2           "link2" //name of named pipe                                                  
        
